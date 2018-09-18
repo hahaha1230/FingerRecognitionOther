@@ -1,0 +1,2 @@
+# FingerRecognitionOther
+一个识别指纹的简易功能，可以作为APP登录验证
